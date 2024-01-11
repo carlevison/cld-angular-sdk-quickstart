@@ -1,5 +1,7 @@
 # Cloudinary Angular Quick Start
 
+Quick start example for the [Cloudinary Angular SDK docs](https://cloudinary.com/documentation/angular_quick_start).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
 
 ## Development server
